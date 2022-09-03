@@ -1,5 +1,5 @@
 console.log(
-  "hey there, why are you poking around??\n\nif you're looking for a developer for a project or wanted some code done shoot me an email\n\nlove jack <3"
+  "pretty good innit bruv\n\nstolen from jack\n\nwen eta"
 );
 
 const parseResponse = (res) => {

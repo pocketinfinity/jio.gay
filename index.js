@@ -43,7 +43,7 @@ const setResponse = (res) => {
 
 const getSong = () => {
   fetch(
-    "https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=j9ck&api_key=b6ad96319cd457234c3fc87a03bb0989&format=json&limit=1"
+    "https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=jioriku&api_key=1ced535b12a3461ef608333b87f2d989&format=json&limit=1"
   )
     .then((res) => res.json())
     .then(parseResponse)
